@@ -1,2 +1,3 @@
 # realtime-portfolio
-Portfolio to showcase realtime systems skills
+Real-time systems portfolio: WebRTC SFU video room + LiveKit voice
+agent
